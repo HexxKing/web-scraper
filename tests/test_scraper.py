@@ -10,7 +10,7 @@ def test_citations_count():
   assert actual == expected
 
 
-# verify that preceding passage
+# verify that preceding passage was found correctly
 def test_wut():
   #code goes here
   actual = #
